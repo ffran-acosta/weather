@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Tajawal', sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card{
+    background-color: #bdbdbd;
+    padding: 1.7rem;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 400px;
+    margin: 1rem;
+}
