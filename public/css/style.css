@@ -12,7 +12,9 @@ body{
     height: 100vh;
     font-size: 112%;
 }
-
+.weather{
+    display: none;
+}
 .card{
     background-color: #000000d0;
     color: #fff;
