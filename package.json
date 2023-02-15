@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon source/index.js -e js,mjs,json,ejs,css",
-    "test": "node source/index.js"
+    "build": "npm install",
+    "test": "nodemon source/index.js -e js,mjs,json,ejs,css",
+    "start": "node source/index.js"
   },
   "author": "",
   "license": "ISC",
